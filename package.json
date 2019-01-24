@@ -1,0 +1,24 @@
+{
+    "name": "task-runner",
+    "version": "1.0.0",
+    "description": "A simple task runner for projects.",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Travis Wilson",
+    "license": "MIT",
+    "devDependencies": {
+        "del": "^1.2.0",
+        "gulp": "^3.9.1",
+        "gulp-autoprefixer": "5.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-imagemin": "^4.1.0",
+        "gulp-minify-css": "1.2.4",
+        "gulp-plumber": "^1.2.0",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.2.1",
+        "gulp-sourcemaps": "^2.6.4",
+        "gulp-uglify": "^3.0.0"
+    },
+    "dependencies": {}
+}
